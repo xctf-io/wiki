@@ -1,7 +1,8 @@
 # CTFg Wiki
 
 ## Setup
-Install [hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian#obsidian-link-scraper) and [hugo](https://gohugo.io/installation/).
+For working on the contents of the notes, install [obsidian](https://obsidian.md/).
+For building the site locally, install [hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian#obsidian-link-scraper) and [hugo](https://gohugo.io/installation/).
 
 ## Running Locally
 ```shell
