@@ -64,13 +64,6 @@
       ]
     },
     "backlinks": {
-      "/asking-forensics-questions": [
-        {
-          "source": "/forensics/",
-          "target": "/asking-forensics-questions",
-          "text": "Here are some questions"
-        }
-      ],
       "/basics": [
         {
           "source": "/",
@@ -85,42 +78,49 @@
           "text": "Forensics"
         }
       ],
-      "/forensics/what-is-disk-imaging/": [
+      "/forensics/asking-forensics-questions": [
         {
           "source": "/forensics/",
-          "target": "/forensics/what-is-disk-imaging/",
-          "text": "Disk Imaging"
+          "target": "/asking-forensics-questions",
+          "text": "Here are some questions"
         }
       ],
-      "/what-are-file-formats": [
+      "/forensics/what-are-file-formats": [
         {
           "source": "/forensics/",
           "target": "/what-are-file-formats",
           "text": "What are File Formats?"
         }
       ],
-      "/what-is-a-hex-editor": [
+      "/forensics/what-is-a-hex-editor": [
         {
           "source": "/forensics/",
           "target": "/what-is-a-hex-editor",
           "text": "What is a hex editor?"
         }
       ],
-      "/what-is-memory-forensics": [
+      "/forensics/what-is-disk-imaging": [
+        {
+          "source": "/forensics/",
+          "target": "/forensics/what-is-disk-imaging/",
+          "text": "Disk Imaging"
+        }
+      ],
+      "/forensics/what-is-memory-forensics": [
         {
           "source": "/forensics/",
           "target": "/what-is-memory-forensics",
           "text": "What is memory forensics?"
         }
       ],
-      "/what-is-metadata": [
+      "/forensics/what-is-metadata": [
         {
           "source": "/forensics/",
           "target": "/what-is-metadata",
           "text": "What is Metadata?"
         }
       ],
-      "/what-is-steganography": [
+      "/forensics/what-is-steganography": [
         {
           "source": "/forensics/",
           "target": "/what-is-steganography",
@@ -132,7 +132,7 @@
           "text": "steganography"
         }
       ],
-      "/what-is-wireshark": [
+      "/forensics/what-is-wireshark": [
         {
           "source": "/forensics/",
           "target": "/what-is-wireshark",
