@@ -1,4 +1,4 @@
-baseURL = "https://wiki.mcpshsf.com/"
+baseURL = "https://wiki.ctfg.io/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
