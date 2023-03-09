@@ -1,4 +1,6 @@
-# File Formats
+---
+title: What are file formats?
+---
 
 File Extensions are not the sole way to identify the type of a file, files have certain leading bytes called *file signatures* which allow programs to parse the data in a consistent manner. Files can also contain additional "hidden" data called *metadata* which can be useful in finding out information about the context of a file's data.
 
@@ -16,7 +18,7 @@ You need to be able to look at the binary data that constitutes the file you’r
 
 ### Example
 
-![File A](images/file-a.jpg)
+![File A](/images/file-a.jpg)
 
 The file above, when opened in a Hex Editor, begins with the bytes `FFD8FFE0 00104A46 494600` or in ASCII `ˇÿˇ‡  JFIF` where `\x00` and `\x10` lack symbols. 
 

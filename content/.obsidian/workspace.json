@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "625d33d79a3f48d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "forensics/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59ee5de31a87c97a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
+                "file": "forensics/intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "forensics/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "forensics/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "forensics/intro.md"
               }
             }
           }
@@ -171,13 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59ee5de31a87c97a",
+  "active": "84927eac7168a9c1",
   "lastOpenFiles": [
-    "forensics/_index.md",
-    "_index.md",
-    "forensics/asking-forensics-questions.md",
-    "basics.md",
-    "forensics/forensics/what-is-wireshark.md",
     "forensics/what-is-wireshark.md",
     "forensics/what-is-steganography.md",
     "forensics/what-is-metadata.md",
@@ -185,17 +155,23 @@
     "forensics/what-is-disk-imaging.md",
     "forensics/what-is-a-hex-editor.md",
     "forensics/what-are-file-formats.md",
-    "forensics/images/ws-tcp-http-info.png",
-    "forensics/images/ws-start-screen.png",
-    "forensics/images/ws-ssl-pref.png",
-    "forensics/images/ws-pcap-screen.png",
-    "forensics/images/ws-filter.png",
-    "forensics/images/ws-filter-2.png",
-    "forensics/images/timestamp-9.png",
-    "forensics/images/timestamp-8.png",
-    "forensics/images/timestamp-7.png",
-    "forensics/images/timestamp-6.png",
-    "forensics/images",
+    "forensics/intro.md",
+    "_index.md",
+    "forensics/_index.md",
+    "basics.md",
+    "forensics/asking-forensics-questions.md",
+    "forensics/forensics/what-is-wireshark.md",
+    "images/ws-tcp-http-info.png",
+    "images/ws-start-screen.png",
+    "images/ws-ssl-pref.png",
+    "images/ws-pcap-screen.png",
+    "images/ws-filter.png",
+    "images/ws-filter-2.png",
+    "images/timestamp-9.png",
+    "images/timestamp-8.png",
+    "images/timestamp-7.png",
+    "images/timestamp-6.png",
+    "images",
     "forensics/forensics/_index.md",
     "forensics/forensics/what-is-memory-forensics.md",
     "forensics/forensics/what-is-a-hex-editor.md",

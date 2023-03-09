@@ -1,4 +1,6 @@
-# Memory Forensics
+---
+title: What is memory forensics?
+---
 
 There are plenty of traces of someone's activity on a computer, but perhaps some of the most valuble information can be found within memory dumps, that is images taken of RAM. These dumps of data are often very large, but can be analyzed using a tool called [Volatility](http://www.volatilityfoundation.org/)
 

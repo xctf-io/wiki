@@ -1,4 +1,6 @@
-# Wireshark
+---
+title: What is wireshark?
+---
 
 [Wireshark](http://www.wireshark.com) is a network protocol analyzer which is often used in CTF challenges to look at recorded network traffic. Wireshark uses a filetype called PCAP to record traffic. PCAPs are often distributed in CTF challenges to provide recorded traffic history.
 
@@ -6,23 +8,23 @@
 
 Upon opening Wireshark, you are greeted with the option to open a PCAP or begin capturing network traffic on your device.
 
-![Wirshark Start Screen](images/ws-start-screen.png)
+![Wirshark Start Screen](/images/ws-start-screen.png)
 
 The network traffic displayed initially shows the packets in order of which they were captured. You can filter packets by protocol, source IP address, destination IP address, length, etc. 
 
-![PCAP Screen](images/ws-pcap-screen.png)
+![PCAP Screen](/images/ws-pcap-screen.png)
 
 In order to apply filters, simply enter the constraining factor, for example 'http', in the display filter bar. 
 
-![PCAP HTTP Filter](images/ws-filter.png)
+![PCAP HTTP Filter](/images/ws-filter.png)
 
 Filters can be chained together using '&&' notation. In order to filter by IP, ensure a double equals '==' is used. 
 
-![PCAP HTTP IP Filter](images/ws-filter-2.png)
+![PCAP HTTP IP Filter](/images/ws-filter-2.png)
 
 The most pertinent part of a packet is its data payload and protocol information.
 
-![HTTP TCP Info](images/ws-tcp-http-info.png)
+![HTTP TCP Info](/images/ws-tcp-http-info.png)
 
 ## Decrypting SSL Traffic
 
@@ -46,4 +48,4 @@ There are several ways to be able to decrypt traffic.
 - If you have the master secret, traffic can be decrypted easily
 - If the cipher-suite uses RSA, you can factor *n* in the key in order to break the encryption on the encrypted pre-master secret and generate the master secret with the client and server randoms 
 
-![Wireshark SSL Preferences](images/ws-ssl-pref.png)
+![Wireshark SSL Preferences](/images/ws-ssl-pref.png)

@@ -9,50 +9,8 @@
         },
         {
           "source": "/",
-          "target": "/forensics/_index",
+          "target": "/forensics",
           "text": "Forensics"
-        }
-      ],
-      "/forensics/": [
-        {
-          "source": "/forensics/",
-          "target": "/asking-forensics-questions",
-          "text": "Here are some questions"
-        },
-        {
-          "source": "/forensics/",
-          "target": "/what-is-a-hex-editor",
-          "text": "What is a hex editor?"
-        },
-        {
-          "source": "/forensics/",
-          "target": "/what-is-memory-forensics",
-          "text": "What is memory forensics?"
-        },
-        {
-          "source": "/forensics/",
-          "target": "/what-are-file-formats",
-          "text": "What are File Formats?"
-        },
-        {
-          "source": "/forensics/",
-          "target": "/what-is-metadata",
-          "text": "What is Metadata?"
-        },
-        {
-          "source": "/forensics/",
-          "target": "/what-is-wireshark",
-          "text": "What is Wireshark?"
-        },
-        {
-          "source": "/forensics/",
-          "target": "/what-is-steganography",
-          "text": "What is Steganography?"
-        },
-        {
-          "source": "/forensics/",
-          "target": "/forensics/what-is-disk-imaging/",
-          "text": "Disk Imaging"
         }
       ],
       "/forensics/asking-forensics-questions": [
@@ -60,6 +18,48 @@
           "source": "/forensics/asking-forensics-questions",
           "target": "/what-is-steganography",
           "text": "steganography"
+        }
+      ],
+      "/forensics/forensics": [
+        {
+          "source": "/forensics/forensics",
+          "target": "/asking-forensics-questions",
+          "text": "Here are some questions"
+        },
+        {
+          "source": "/forensics/forensics",
+          "target": "/what-is-a-hex-editor",
+          "text": "What is a hex editor?"
+        },
+        {
+          "source": "/forensics/forensics",
+          "target": "/what-is-memory-forensics",
+          "text": "What is memory forensics?"
+        },
+        {
+          "source": "/forensics/forensics",
+          "target": "/what-are-file-formats",
+          "text": "What are File Formats?"
+        },
+        {
+          "source": "/forensics/forensics",
+          "target": "/what-is-metadata",
+          "text": "What is Metadata?"
+        },
+        {
+          "source": "/forensics/forensics",
+          "target": "/what-is-wireshark",
+          "text": "What is Wireshark?"
+        },
+        {
+          "source": "/forensics/forensics",
+          "target": "/what-is-steganography",
+          "text": "What is Steganography?"
+        },
+        {
+          "source": "/forensics/forensics",
+          "target": "/forensics/what-is-disk-imaging/",
+          "text": "Disk Imaging"
         }
       ]
     },
@@ -71,70 +71,70 @@
           "text": "here"
         }
       ],
-      "/forensics/_index": [
-        {
-          "source": "/",
-          "target": "/forensics/_index",
-          "text": "Forensics"
-        }
-      ],
       "/forensics/asking-forensics-questions": [
         {
-          "source": "/forensics/",
+          "source": "/forensics/forensics",
           "target": "/asking-forensics-questions",
           "text": "Here are some questions"
         }
       ],
+      "/forensics/forensics": [
+        {
+          "source": "/",
+          "target": "/forensics",
+          "text": "Forensics"
+        }
+      ],
       "/forensics/what-are-file-formats": [
         {
-          "source": "/forensics/",
+          "source": "/forensics/forensics",
           "target": "/what-are-file-formats",
           "text": "What are File Formats?"
         }
       ],
       "/forensics/what-is-a-hex-editor": [
         {
-          "source": "/forensics/",
+          "source": "/forensics/forensics",
           "target": "/what-is-a-hex-editor",
           "text": "What is a hex editor?"
         }
       ],
       "/forensics/what-is-disk-imaging": [
         {
-          "source": "/forensics/",
+          "source": "/forensics/forensics",
           "target": "/forensics/what-is-disk-imaging/",
           "text": "Disk Imaging"
         }
       ],
       "/forensics/what-is-memory-forensics": [
         {
-          "source": "/forensics/",
+          "source": "/forensics/forensics",
           "target": "/what-is-memory-forensics",
           "text": "What is memory forensics?"
         }
       ],
       "/forensics/what-is-metadata": [
         {
-          "source": "/forensics/",
+          "source": "/forensics/forensics",
           "target": "/what-is-metadata",
           "text": "What is Metadata?"
         }
       ],
       "/forensics/what-is-steganography": [
         {
-          "source": "/forensics/",
-          "target": "/what-is-steganography",
-          "text": "What is Steganography?"
-        },
-        {
           "source": "/forensics/asking-forensics-questions",
           "target": "/what-is-steganography",
           "text": "steganography"
+        },
+        {
+          "source": "/forensics/forensics",
+          "target": "/what-is-steganography",
+          "text": "What is Steganography?"
         }
       ],
       "/forensics/what-is-wireshark": [
         {
-          "source": "/forensics/",
+          "source": "/forensics/forensics",
           "target": "/what-is-wireshark",
           "text": "What is Wireshark?"
         }
@@ -149,53 +149,53 @@
     },
     {
       "source": "/",
-      "target": "/forensics/_index",
+      "target": "/forensics",
       "text": "Forensics"
-    },
-    {
-      "source": "/forensics/",
-      "target": "/asking-forensics-questions",
-      "text": "Here are some questions"
-    },
-    {
-      "source": "/forensics/",
-      "target": "/what-is-a-hex-editor",
-      "text": "What is a hex editor?"
-    },
-    {
-      "source": "/forensics/",
-      "target": "/what-is-memory-forensics",
-      "text": "What is memory forensics?"
-    },
-    {
-      "source": "/forensics/",
-      "target": "/what-are-file-formats",
-      "text": "What are File Formats?"
-    },
-    {
-      "source": "/forensics/",
-      "target": "/what-is-metadata",
-      "text": "What is Metadata?"
-    },
-    {
-      "source": "/forensics/",
-      "target": "/what-is-wireshark",
-      "text": "What is Wireshark?"
-    },
-    {
-      "source": "/forensics/",
-      "target": "/what-is-steganography",
-      "text": "What is Steganography?"
-    },
-    {
-      "source": "/forensics/",
-      "target": "/forensics/what-is-disk-imaging/",
-      "text": "Disk Imaging"
     },
     {
       "source": "/forensics/asking-forensics-questions",
       "target": "/what-is-steganography",
       "text": "steganography"
+    },
+    {
+      "source": "/forensics/forensics",
+      "target": "/asking-forensics-questions",
+      "text": "Here are some questions"
+    },
+    {
+      "source": "/forensics/forensics",
+      "target": "/what-is-a-hex-editor",
+      "text": "What is a hex editor?"
+    },
+    {
+      "source": "/forensics/forensics",
+      "target": "/what-is-memory-forensics",
+      "text": "What is memory forensics?"
+    },
+    {
+      "source": "/forensics/forensics",
+      "target": "/what-are-file-formats",
+      "text": "What are File Formats?"
+    },
+    {
+      "source": "/forensics/forensics",
+      "target": "/what-is-metadata",
+      "text": "What is Metadata?"
+    },
+    {
+      "source": "/forensics/forensics",
+      "target": "/what-is-wireshark",
+      "text": "What is Wireshark?"
+    },
+    {
+      "source": "/forensics/forensics",
+      "target": "/what-is-steganography",
+      "text": "What is Steganography?"
+    },
+    {
+      "source": "/forensics/forensics",
+      "target": "/forensics/what-is-disk-imaging/",
+      "text": "Disk Imaging"
     }
   ]
 }

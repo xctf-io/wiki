@@ -1,8 +1,6 @@
 ---
-title: Forensics
+title: Forensics Intro
 ---
-
-# Forensics
 
 Forensics is the art of recovering the digital trail left on a computer. There are plently of methods to find data which is seemingly deleted, not stored, or worse, covertly recorded.
 
@@ -15,7 +13,7 @@ An important part of Forensics is having the right tools, as well as being famil
 * [[what-is-metadata|What is Metadata?]]
 * [[what-is-wireshark|What is Wireshark?]]
 * [[what-is-steganography|What is Steganography?]]
-* [Disk Imaging](/forensics/what-is-disk-imaging/)
+* [[what-is-disk-imaging|What is Disk Imaging?]]
 
 For more tools and information about forensics, check out these resources:
 - https://trailofbits.github.io/ctf/forensics/
