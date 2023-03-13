@@ -10,5 +10,8 @@ In this guide/wiki/handbook you'll learn the techniques, thought processes, and 
 
 For the basics about how to play in a CTF, go [[basics|here]] first.
 
+For general information about CTFs, go [[general|here]].
+
 For information about specific categories of challenges:
 * [[forensics/intro|Forensics]]
+* [[crypto/intro|Cryptography]]
