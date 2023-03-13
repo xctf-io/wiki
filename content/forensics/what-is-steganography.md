@@ -101,6 +101,11 @@ And once more:
 
 Decoding LSB steganography is exactly the same as encoding, but in reverse. For each byte, grab the LSB and add it to your decoded message. Once you’ve gone through each byte, convert all the LSBs you grabbed into text or a file. (You can use your file signature knowledge here!)
 
+## Audio Steganography
+
+LSB Steganography can be used for more than just images; it can also be used for audio files! Another popular technique is to hide text in the spectrogram of an audio file. This shown below:
+
+![Spectrogram](/images/spectrogram.png)
 
 ## What other types of steganography are there?
 Steganography is hard for the defense side, because there’s practically an infinite number of ways it could be carried out. Here are a few examples:
