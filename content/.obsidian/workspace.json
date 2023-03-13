@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensics/intro.md",
+                "file": "forensics/what-is-a-hex-editor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forensics/intro.md",
+                "file": "forensics/what-is-a-hex-editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forensics/intro.md",
+                "file": "forensics/what-is-a-hex-editor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forensics/intro.md"
+                "file": "forensics/what-is-a-hex-editor.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "84927eac7168a9c1",
   "lastOpenFiles": [
+    "forensics/intro.md",
     "forensics/what-is-wireshark.md",
     "forensics/what-is-steganography.md",
     "forensics/what-is-metadata.md",
@@ -155,7 +156,6 @@
     "forensics/what-is-disk-imaging.md",
     "forensics/what-is-a-hex-editor.md",
     "forensics/what-are-file-formats.md",
-    "forensics/intro.md",
     "_index.md",
     "forensics/_index.md",
     "basics.md",
