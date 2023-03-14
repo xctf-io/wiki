@@ -12,6 +12,8 @@ For the basics about how to play in a CTF, go [[basics|here]] first.
 
 For general information about CTFs, go [[general|here]].
 
+For solving MCPSHSF challenges on a chromebook, go [[chromebooks|here]].
+
 For information about specific categories of challenges:
 * [[forensics/intro|Forensics]]
 * [[crypto/intro|Cryptography]]
