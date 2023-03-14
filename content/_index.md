@@ -17,3 +17,4 @@ For solving MCPSHSF challenges on a chromebook, go [[chromebooks|here]].
 For information about specific categories of challenges:
 * [[forensics/intro|Forensics]]
 * [[crypto/intro|Cryptography]]
+* [[linux/intro|Linux]]
