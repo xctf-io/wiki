@@ -1,4 +1,4 @@
-# CTFg Wiki
+# xctf Wiki
 
 ## Setup
 For working on the contents of the notes, install [obsidian](https://obsidian.md/). Open up the `/content` folder in this repo in obsidian so that you don't include the `/site` folder.

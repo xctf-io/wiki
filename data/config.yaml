@@ -1,4 +1,4 @@
-name: ctfg
+name: xctf 
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -20,5 +20,5 @@ search:
 description:
   There is so much knowledge that goes into playing a CTF! Checkout this site for getting some ideas about how to solve different types of challenges.
 page_title:
-  "CTFg"
+  "xctf"
 links: []
